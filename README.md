@@ -341,8 +341,8 @@ Potential future enhancements include:
 
 **Ahmet Zahir Absi — Software Engineer**
 
-- GitHub: https://github.com/zabmw89
-- Portfolio: https://devfolioahmed.vercel.app/
+- GitHub: <https://github.com/zabmw89>
+- Portfolio: <https://devfolioahmed.vercel.app/>
 
 ---
 
