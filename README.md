@@ -5,6 +5,7 @@
 **Project type:** Learning project  
 **Source code:** Maintained privately  
 **Public repository purpose:** Demonstration, screenshots, architecture, and technical documentation
+
 **Live URL:** https://circleup-4siz.onrender.com
 
 ---
