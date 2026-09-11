@@ -3,9 +3,9 @@
 > A full-stack social media platform demonstrating authentication, user profiles, posts, image uploads, comments, likes, follow relationships, REST API design, relational data modeling, and automated API testing.
 
 **Project type:** Learning project  
-**Live URL:** https://circleup-4siz.onrender.com
 **Source code:** Maintained privately  
 **Public repository purpose:** Demonstration, screenshots, architecture, and technical documentation
+**Live URL:** https://circleup-4siz.onrender.com
 
 ---
 
